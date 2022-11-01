@@ -18,3 +18,6 @@ name = "bobby boy"
 title = "awesome student"
 fav_hobby = "video games"
 
+puts "Here is our #{title}, his name is #{name} and he is #{age}!"
+puts "#{name} loves #{fav_hobby}. He was recently paid #{recent_pay}."
+puts "#{name} hopes to eventually make a salary of #{ideal_salary} in one year!"
