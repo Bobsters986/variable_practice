@@ -6,3 +6,7 @@ age = 33
 fav_number = 986
 hs_graduation = 2007
 
+first_pay = 10.50
+recent_pay = 28.50
+ideal_salary = 100,000.00
+
