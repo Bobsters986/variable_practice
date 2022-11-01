@@ -8,7 +8,7 @@ hs_graduation = 2007
 
 first_pay = 10.50
 recent_pay = 28.50
-ideal_salary = 90,000.50
+ideal_salary = 90000.50
 
 excited = true
 loves_ruby = true
